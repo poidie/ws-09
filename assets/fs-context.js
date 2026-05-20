@@ -384,7 +384,7 @@ window.FS_CONTEXT = {
       "fileInfo": {
         "character_profile": {
           "type": "plain",
-          "path": "home/odin/variables/Rye_Blunt/character_profile.sql.txt"
+          "path": "home/odin/variables/Rena_Eisen/character_profile.sql.txt"
         }
       }
     },
