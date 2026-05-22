@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "purpose": "sim-core-route",
+  "alg": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 310000,
+  "salt": "uLYI3Kix1rAiP+HKDZs7EQ==",
+  "iv": "66rIXMAc6ghTTlbA",
+  "tag": "61jB52IY5UrdZ+I3q2lvYA==",
+  "data": "iQiMZPcEo7mzdK7gHqnRVTUW6UB5wwcicEbcN+S4T1Qb1tdV3tX1t6R8t5j4sMmmfgoy"
+}

@@ -1,0 +1,11 @@
+INSERT INTO character_profile
+(character_name, family_data, relation_data, personality_data, trait_data, goal_data)
+VALUES
+(
+    'Rye Blunt',
+    ARRAY['아버지', '어머니'],
+    ARRAY[]::TEXT[],
+    ARRAY['신중함', '현실적', '평화 지향적', '소극적', '운동에 자신 있음'],
+    ARRAY['유복한 태생', '평화로운 환경에 익숙함', '방벽 안쪽의 안전을 의식함', '바깥 세계를 의문시함'],
+    ARRAY['불가능을 가능케 하려 하지 않음', '안전한 곳에 머무름', '바깥의 안전 여부를 확인함']
+);
